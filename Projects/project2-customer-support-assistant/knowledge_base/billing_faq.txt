@@ -1,0 +1,25 @@
+Billing and Payments FAQ
+
+What payment methods do you accept?
+We accept Visa, MasterCard, American Express, and Discover credit and debit cards. We also accept PayPal and Apple Pay. For business accounts, we offer invoice-based billing with net 30 payment terms.
+
+How do I update my payment method?
+Log into your account and go to Settings. Select Payment Methods and click Add New or Edit. Enter your updated card details and save. Your next billing cycle will use the new payment method.
+
+Why was my payment declined?
+Payments may be declined for several reasons. The most common causes are insufficient funds, expired card details, or incorrect billing address. Please verify your card information and try again. If the problem continues, contact your bank or try a different payment method.
+
+How do I view my billing history?
+Go to your account Settings and select Billing History. You will see a list of all past transactions with dates, amounts, and invoice numbers. You can download individual invoices as PDF files.
+
+Do you charge taxes?
+Sales tax is applied based on your shipping address and local tax regulations. The tax amount is shown at checkout before you complete your purchase. For business customers with a valid tax exemption certificate, please contact our billing team to have taxes removed from your account.
+
+How do I request a refund?
+To request a refund, go to your Order History and select the order. Click Request Refund and provide a brief reason. Refund requests are reviewed within 2 business days. Approved refunds are returned to your original payment method within 5 to 7 business days.
+
+Can I get a receipt for my purchase?
+Yes, a receipt is emailed to you automatically after every purchase. You can also download receipts from the Billing History section in your account. If you need a receipt for a specific transaction and cannot find it, contact our support team with your order number.
+
+What happens if I am double charged?
+If you notice a duplicate charge, please contact our billing team immediately at billing@example.com. Include your order number and the dates of both charges. We will investigate and process a refund for the duplicate within 3 business days.

@@ -1,0 +1,25 @@
+Technical Support FAQ
+
+I forgot my password. How do I reset it?
+Click the Forgot Password link on the login page. Enter your registered email address and click Submit. You will receive a password reset link within a few minutes. Click the link and create a new password. If you do not see the email, check your spam or junk folder.
+
+The website is loading slowly. What should I do?
+First, try clearing your browser cache and cookies. If the problem continues, try using a different browser or device. Check your internet connection by visiting other websites. If our website is still slow, there may be temporary server maintenance. You can check our status page at status.example.com for updates.
+
+I cannot log into my account. What should I do?
+Make sure you are using the correct email address and password. If you recently changed your password, use the new one. Try resetting your password using the Forgot Password link. If your account is locked after multiple failed attempts, wait 30 minutes and try again. If you still cannot access your account, contact support with your registered email.
+
+How do I enable two-factor authentication?
+Go to your account Settings and select Security. Click Enable Two-Factor Authentication. You can choose to receive verification codes by SMS or use an authenticator app such as Google Authenticator. Follow the on-screen instructions to complete the setup. Keep your backup codes in a safe place in case you lose access to your phone.
+
+The app keeps crashing on my phone. How do I fix it?
+Make sure you have the latest version of the app installed. Go to your device app store and check for updates. If the app is already up to date, try uninstalling and reinstalling it. Clear the app cache in your phone settings. If the problem continues, let us know your device model and operating system version so we can investigate further.
+
+How do I change my email address?
+Log into your account and go to Settings. Select Account Information and click Edit next to your email address. Enter your new email and confirm it. A verification link will be sent to your new email. Click the link to complete the change. Your old email will no longer be associated with your account.
+
+I am getting error messages when trying to checkout. What should I do?
+This can happen for several reasons. Make sure all required fields are filled in correctly, especially the billing address and payment details. Try removing all items from your cart and adding them again. Disable any browser extensions that might interfere with the checkout process. If the error message includes a specific code, note it down and share it with our support team for faster troubleshooting.
+
+How do I delete my account?
+To delete your account, go to Settings and select Account Information. Scroll to the bottom and click Delete My Account. You will be asked to confirm your decision. Please note that account deletion is permanent and cannot be undone. All your order history, saved addresses, and reward points will be removed. If you have any pending orders, please wait until they are completed before deleting your account.
