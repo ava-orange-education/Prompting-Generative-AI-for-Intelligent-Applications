@@ -1,0 +1,45 @@
+Sample Contract Agreement
+
+Contract Title: Service Agreement
+Effective Date: 10 January 2025
+
+Parties:
+This agreement is made between:
+
+Client: The individual or organization requesting services.
+
+Service Provider: The individual or organization delivering the services.
+
+1. Scope of Work
+
+The Service Provider agrees to perform software development, bug fixes, and maintenance tasks as requested by the Client. All deliverables will be submitted in digital format.
+
+2. Payment Terms
+
+The Client agrees to pay a monthly fee of INR 50,000 for the services. Payment is due within 10 days of receiving the invoice.
+
+3. Timeline
+
+The Service Provider will begin work on the Effective Date and continue on a monthly basis until the agreement is terminated by either party.
+
+4. Confidentiality
+
+Both parties agree to keep all project data, documents, and communication confidential. No information may be shared without written consent.
+
+5. Ownership
+
+All code, documents, and deliverables created under this agreement will be the property of the Client once full payment is made.
+
+6. Termination
+
+Either party may terminate this agreement with 15 days written notice. All pending payments must be settled before termination becomes effective.
+
+7. Liability
+
+The Service Provider will not be responsible for indirect or consequential damages. Liability is limited to the amount paid in the last 30 days.
+
+8. Signatures
+
+Client Signature: _______________________
+Service Provider Signature: _______________________
+Date: _______________________
