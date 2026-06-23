@@ -1,0 +1,14 @@
+Project Name: Internal Leave Management System
+Purpose:
+This system helps employees apply for leave and allows managers to approve or reject requests.
+Key Features:
+•	Employees submit leave requests online.
+•	Managers review and approve requests.
+•	HR can view leave history and generate reports.
+Common Issues:
+•	Users sometimes forget to upload supporting documents.
+•	Approval delays occur during peak holiday seasons.
+Planned Improvements:
+•	Add email notifications for approvals.
+•	Create a mobile friendly interface.
+This document stays on your machine. It never travels anywhere else. Once the system processes this file, it creates local embeddings that represent the meaning of the content. These embeddings are stored locally and used whenever you ask questions.
