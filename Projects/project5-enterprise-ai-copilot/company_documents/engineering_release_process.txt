@@ -1,0 +1,28 @@
+Engineering Release Process
+
+Overview
+This document describes the standard process for releasing software in the engineering department. All teams must follow these steps to ensure quality, stability, and traceability. Exceptions require written approval from the Engineering Director.
+
+Development Workflow
+All feature work must be done on a separate branch. Branch names should follow the format feature/ticket-number-short-description. Developers must write unit tests for all new functionality. Code must pass all automated tests before a pull request is created.
+
+Code Review Requirements
+Every pull request requires at least two approved reviews before merging. Reviewers should check for code quality, test coverage, security concerns, and adherence to coding standards. Reviews must be completed within 2 business days. If a reviewer requests changes, the developer must address them before the pull request can be approved.
+
+Staging Environment
+After merging to the main branch, changes are automatically deployed to the staging environment. The QA team runs regression tests on staging before any production release. Staging must remain stable for at least 24 hours before a production deployment is scheduled. If critical bugs are found in staging, the release is paused until they are resolved.
+
+Release Approval
+Production releases require sign-off from the team lead, QA lead, and the Engineering Manager. The release checklist must be completed and attached to the release ticket. The checklist includes items such as database migration review, API compatibility check, and rollback plan verification.
+
+Production Deployment
+Deployments to production are scheduled during the maintenance window, which is every Tuesday and Thursday between 10 PM and 12 AM. Emergency hotfixes can be deployed outside the window with Engineering Director approval. All deployments are executed through the CI/CD pipeline. Manual deployments are not permitted.
+
+Rollback Procedure
+Every release must include a documented rollback plan. If a critical issue is detected within 1 hour of deployment, the on-call engineer initiates an automatic rollback. The rollback restores the previous stable version. A post-incident review is conducted within 48 hours of any rollback event.
+
+Monitoring and Alerts
+After deployment, the on-call engineer monitors error rates, latency, and system health for at least 30 minutes. Alerts are configured in the monitoring dashboard to notify the team of any anomalies. If error rates exceed the defined threshold, the on-call engineer escalates according to the incident response plan.
+
+Documentation
+All releases must be documented in the release log with the version number, date, changes included, and any known issues. Release notes are shared with the product team and customer support within 24 hours of deployment. Internal documentation must be updated if the release introduces changes to APIs or configurations.

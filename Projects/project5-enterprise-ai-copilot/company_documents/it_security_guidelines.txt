@@ -1,0 +1,31 @@
+IT Security Guidelines
+
+Purpose
+These guidelines define the security standards that all employees must follow when using company systems, devices, and data. Compliance with these guidelines is mandatory and is reviewed as part of annual performance evaluations.
+
+Password Requirements
+All passwords must be at least 12 characters long and include a mix of uppercase letters, lowercase letters, numbers, and special characters. Passwords must be changed every 90 days. You cannot reuse any of your last 5 passwords. Never share your password with anyone, including colleagues or IT staff. If you suspect your password has been compromised, change it immediately and report the incident to the IT security team.
+
+Two-Factor Authentication
+Two-factor authentication is required for all company systems, including email, the HR portal, code repositories, and cloud services. You can use an authenticator app such as Google Authenticator or Microsoft Authenticator. SMS-based authentication is not permitted due to security risks. If you lose access to your authenticator device, contact IT support to request a temporary access code.
+
+Device Security
+All company laptops must have full disk encryption enabled. The IT team configures this during onboarding. Do not disable encryption or tamper with security software. Lock your screen whenever you step away from your device, even briefly. Enable auto-lock after 5 minutes of inactivity. Personal devices are not permitted to access company systems unless enrolled in the mobile device management program.
+
+Network Security
+When working remotely, always connect through the company VPN before accessing internal systems. Do not use public Wi-Fi networks for work without the VPN active. If you notice unusual network behavior, report it to the IT security team immediately. The IT team monitors network traffic for anomalies and will notify you if suspicious activity is detected on your account.
+
+Data Classification
+Company data is classified into three levels. Public data can be shared freely. Internal data is for employees only and must not be shared outside the company. Confidential data includes financial records, customer information, and trade secrets. Confidential data must be encrypted at rest and in transit. Access to confidential data is granted on a need-to-know basis and requires manager approval.
+
+Email Security
+Be cautious with email attachments and links, especially from unknown senders. The company uses an email security gateway that scans for threats, but no system is perfect. If you receive a suspicious email, do not click any links or download attachments. Forward the email to security@example.com and delete it. The IT team will investigate and notify you if it was a genuine threat.
+
+Incident Reporting
+All security incidents must be reported to the IT security team within 1 hour of discovery. This includes lost or stolen devices, unauthorized access attempts, suspicious emails, and any data breaches. You can report incidents by emailing security@example.com or calling the security hotline at extension 5555. Do not attempt to investigate or resolve security incidents on your own.
+
+Software Installation
+Only approved software may be installed on company devices. A list of approved applications is maintained on the IT portal. If you need software that is not on the approved list, submit a request through the IT portal. The IT team will review the request within 3 business days. Installing unapproved software may introduce security vulnerabilities and is a policy violation.
+
+Annual Security Training
+All employees must complete annual security awareness training. The training covers topics such as phishing, social engineering, data handling, and incident response. Completion is tracked through the learning management system. Employees who do not complete the training by the deadline may have their system access temporarily restricted.
