@@ -1,0 +1,5 @@
+openai
+chromadb==0.5.23
+onnxruntime==1.18.1
+streamlit
+python-dotenv
