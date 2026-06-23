@@ -1,0 +1,45 @@
+SARAH JOHNSON
+Email: sarah.johnson@email.com | Phone: +1-555-123-4567 | LinkedIn: linkedin.com/in/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Results-driven software developer with 4 years of experience in building web applications using Python, JavaScript, and cloud technologies. Passionate about clean code, automation, and delivering user-focused solutions. Strong communicator who enjoys collaborating with cross-functional teams.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, SQL
+Frameworks: Django, Flask, React, Node.js
+Cloud Platforms: AWS (EC2, S3, Lambda), Google Cloud Platform
+Databases: PostgreSQL, MySQL, MongoDB
+Tools: Git, Docker, Jenkins, Jira, VS Code
+Other: REST APIs, Agile methodology, unit testing, CI/CD pipelines
+
+WORK EXPERIENCE
+
+Software Developer | TechNova Solutions | June 2021 - Present
+- Developed and maintained web applications using Python and Django framework
+- Built RESTful APIs consumed by mobile and web clients
+- Implemented CI/CD pipelines using Jenkins and GitHub Actions
+- Collaborated with product managers to translate requirements into technical solutions
+- Reduced page load time by 35% through query optimization and caching strategies
+- Mentored two junior developers on coding standards and best practices
+
+Junior Developer | BrightPath Digital | January 2020 - May 2021
+- Created responsive front-end interfaces using React and TypeScript
+- Wrote unit tests achieving 85% code coverage across core modules
+- Participated in daily standups and sprint planning meetings
+- Assisted in migrating legacy systems to cloud-based architecture on AWS
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University of Technology | Graduated May 2019
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2022)
+Python Professional Certificate - Coursera (2021)
+
+PROJECTS
+Personal Finance Tracker: Built a full-stack web app using Flask and React that helps users track expenses and set budgets. Deployed on AWS EC2 with a PostgreSQL database.
+
+Team Task Manager: Created a project management tool with real-time collaboration features using Node.js and WebSockets.
+
+INTERESTS
+Open source contributions, tech meetups, hiking, and photography
